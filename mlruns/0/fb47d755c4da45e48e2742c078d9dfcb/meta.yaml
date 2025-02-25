@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/suhaimi/Documents/AhmadAdam_Titanic/mlruns/0/fb47d755c4da45e48e2742c078d9dfcb/artifacts
+end_time: 1740457637377
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: fb47d755c4da45e48e2742c078d9dfcb
+run_name: unleashed-pig-93
+run_uuid: fb47d755c4da45e48e2742c078d9dfcb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740457625297
+status: 3
+tags: []
+user_id: suhaimi

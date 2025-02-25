@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/suhaimi/Documents/AhmadAdam_Titanic/mlruns/0/22c1d0e8cbb24571810edb9d4c695d46/artifacts
+end_time: 1740449190194
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 22c1d0e8cbb24571810edb9d4c695d46
+run_name: mysterious-owl-532
+run_uuid: 22c1d0e8cbb24571810edb9d4c695d46
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740449167996
+status: 4
+tags: []
+user_id: suhaimi

@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/suhaimi/Documents/AhmadAdam_Titanic/mlruns/0/a7f3b344a03b4664a736844129035954/artifacts
+end_time: 1740458841881
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a7f3b344a03b4664a736844129035954
+run_name: sincere-sponge-847
+run_uuid: a7f3b344a03b4664a736844129035954
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740458828821
+status: 3
+tags: []
+user_id: suhaimi

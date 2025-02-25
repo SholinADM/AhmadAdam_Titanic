@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/suhaimi/Documents/AhmadAdam_Titanic/mlruns/0/ac897950aaba499d8e22aed80712c511/artifacts
+end_time: 1740458136064
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ac897950aaba499d8e22aed80712c511
+run_name: nimble-tern-87
+run_uuid: ac897950aaba499d8e22aed80712c511
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740458105957
+status: 3
+tags: []
+user_id: suhaimi

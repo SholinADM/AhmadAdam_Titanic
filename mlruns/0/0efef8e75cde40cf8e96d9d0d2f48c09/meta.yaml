@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/suhaimi/Documents/AhmadAdam_Titanic/mlruns/0/0efef8e75cde40cf8e96d9d0d2f48c09/artifacts
+end_time: 1740458560485
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0efef8e75cde40cf8e96d9d0d2f48c09
+run_name: classy-duck-806
+run_uuid: 0efef8e75cde40cf8e96d9d0d2f48c09
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740458531258
+status: 3
+tags: []
+user_id: suhaimi

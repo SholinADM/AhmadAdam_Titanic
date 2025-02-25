@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/suhaimi/Documents/AhmadAdam_Titanic/mlruns/0/7bb0e6e41b2b42bbb6f0d4fa9329de50/artifacts
+end_time: 1740456675286
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7bb0e6e41b2b42bbb6f0d4fa9329de50
+run_name: flawless-wasp-323
+run_uuid: 7bb0e6e41b2b42bbb6f0d4fa9329de50
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740456658972
+status: 3
+tags: []
+user_id: suhaimi

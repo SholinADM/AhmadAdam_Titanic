@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/suhaimi/Documents/AhmadAdam_Titanic/mlruns/0/13151afaa63e4b55924726411bcce934/artifacts
+end_time: 1740456762906
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 13151afaa63e4b55924726411bcce934
+run_name: brawny-auk-556
+run_uuid: 13151afaa63e4b55924726411bcce934
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740456748773
+status: 3
+tags: []
+user_id: suhaimi

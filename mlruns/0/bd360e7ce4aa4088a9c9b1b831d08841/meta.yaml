@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/suhaimi/Documents/AhmadAdam_Titanic/mlruns/0/bd360e7ce4aa4088a9c9b1b831d08841/artifacts
+end_time: 1740457899102
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: bd360e7ce4aa4088a9c9b1b831d08841
+run_name: rogue-skunk-876
+run_uuid: bd360e7ce4aa4088a9c9b1b831d08841
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740457870314
+status: 3
+tags: []
+user_id: suhaimi

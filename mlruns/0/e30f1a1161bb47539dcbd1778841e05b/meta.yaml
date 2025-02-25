@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/suhaimi/Documents/AhmadAdam_Titanic/mlruns/0/e30f1a1161bb47539dcbd1778841e05b/artifacts
+end_time: 1740459881833
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e30f1a1161bb47539dcbd1778841e05b
+run_name: dashing-steed-773
+run_uuid: e30f1a1161bb47539dcbd1778841e05b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740459858694
+status: 3
+tags: []
+user_id: suhaimi

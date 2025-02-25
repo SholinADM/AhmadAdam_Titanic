@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/suhaimi/Documents/AhmadAdam_Titanic/mlruns/0/5609bd5247554a5dbee4230bf21aa9f2/artifacts
+end_time: 1740455575842
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5609bd5247554a5dbee4230bf21aa9f2
+run_name: rare-yak-664
+run_uuid: 5609bd5247554a5dbee4230bf21aa9f2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740455560626
+status: 3
+tags: []
+user_id: suhaimi

@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/suhaimi/Documents/AhmadAdam_Titanic/mlruns/0/e649cfcaf79c42f1a9788e8ef1744e55/artifacts
+end_time: 1740457711443
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e649cfcaf79c42f1a9788e8ef1744e55
+run_name: sneaky-snail-355
+run_uuid: e649cfcaf79c42f1a9788e8ef1744e55
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740457689611
+status: 3
+tags: []
+user_id: suhaimi

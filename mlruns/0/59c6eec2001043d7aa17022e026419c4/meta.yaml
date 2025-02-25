@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/suhaimi/Documents/AhmadAdam_Titanic/mlruns/0/59c6eec2001043d7aa17022e026419c4/artifacts
+end_time: 1740456896428
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 59c6eec2001043d7aa17022e026419c4
+run_name: auspicious-conch-756
+run_uuid: 59c6eec2001043d7aa17022e026419c4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740456880453
+status: 3
+tags: []
+user_id: suhaimi

@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/suhaimi/Documents/AhmadAdam_Titanic/mlruns/0/54da56cce91345baa9af4c9b734c8be8/artifacts
+end_time: 1740457510391
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 54da56cce91345baa9af4c9b734c8be8
+run_name: awesome-elk-535
+run_uuid: 54da56cce91345baa9af4c9b734c8be8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740457499981
+status: 3
+tags: []
+user_id: suhaimi

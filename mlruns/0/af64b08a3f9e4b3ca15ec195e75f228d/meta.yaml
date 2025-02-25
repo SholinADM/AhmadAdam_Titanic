@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/suhaimi/Documents/AhmadAdam_Titanic/mlruns/0/af64b08a3f9e4b3ca15ec195e75f228d/artifacts
+end_time: 1740459818465
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: af64b08a3f9e4b3ca15ec195e75f228d
+run_name: inquisitive-grub-538
+run_uuid: af64b08a3f9e4b3ca15ec195e75f228d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740459706234
+status: 3
+tags: []
+user_id: suhaimi

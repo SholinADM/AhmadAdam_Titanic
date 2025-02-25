@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/suhaimi/Documents/AhmadAdam_Titanic/mlruns/0/4eae86959f0945c0b505233d6cf07632/artifacts
+end_time: 1740458753278
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4eae86959f0945c0b505233d6cf07632
+run_name: defiant-donkey-70
+run_uuid: 4eae86959f0945c0b505233d6cf07632
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740458660409
+status: 3
+tags: []
+user_id: suhaimi

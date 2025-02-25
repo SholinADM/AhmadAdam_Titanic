@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/suhaimi/Documents/AhmadAdam_Titanic/mlruns/0/4b952a159dbc47b9acbdc9befc15eae3/artifacts
+end_time: 1740457270046
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4b952a159dbc47b9acbdc9befc15eae3
+run_name: calm-hog-473
+run_uuid: 4b952a159dbc47b9acbdc9befc15eae3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740457246550
+status: 3
+tags: []
+user_id: suhaimi

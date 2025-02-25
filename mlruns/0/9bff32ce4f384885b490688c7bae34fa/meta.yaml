@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/suhaimi/Documents/AhmadAdam_Titanic/mlruns/0/9bff32ce4f384885b490688c7bae34fa/artifacts
+end_time: 1740449344977
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9bff32ce4f384885b490688c7bae34fa
+run_name: receptive-foal-545
+run_uuid: 9bff32ce4f384885b490688c7bae34fa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740449314385
+status: 3
+tags: []
+user_id: suhaimi

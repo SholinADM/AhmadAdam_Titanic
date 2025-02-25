@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/suhaimi/Documents/AhmadAdam_Titanic/mlruns/0/86cda85b0e3c41b794e9bf623423f9ee/artifacts
+end_time: 1740456839491
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 86cda85b0e3c41b794e9bf623423f9ee
+run_name: salty-vole-377
+run_uuid: 86cda85b0e3c41b794e9bf623423f9ee
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740456824450
+status: 3
+tags: []
+user_id: suhaimi

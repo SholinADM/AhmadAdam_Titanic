@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/suhaimi/Documents/AhmadAdam_Titanic/mlruns/0/581f9fac01964c9cb3ed79b211a2e130/artifacts
+end_time: 1740457051707
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 581f9fac01964c9cb3ed79b211a2e130
+run_name: marvelous-bass-103
+run_uuid: 581f9fac01964c9cb3ed79b211a2e130
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740457027653
+status: 3
+tags: []
+user_id: suhaimi

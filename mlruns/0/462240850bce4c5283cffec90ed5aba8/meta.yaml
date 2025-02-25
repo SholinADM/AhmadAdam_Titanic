@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/suhaimi/Documents/AhmadAdam_Titanic/mlruns/0/462240850bce4c5283cffec90ed5aba8/artifacts
+end_time: 1740456991215
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 462240850bce4c5283cffec90ed5aba8
+run_name: mercurial-cow-414
+run_uuid: 462240850bce4c5283cffec90ed5aba8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740456975150
+status: 3
+tags: []
+user_id: suhaimi

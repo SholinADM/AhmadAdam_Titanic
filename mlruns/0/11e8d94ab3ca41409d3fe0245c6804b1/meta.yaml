@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/suhaimi/Documents/AhmadAdam_Titanic/mlruns/0/11e8d94ab3ca41409d3fe0245c6804b1/artifacts
+end_time: 1740457018981
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 11e8d94ab3ca41409d3fe0245c6804b1
+run_name: luminous-wren-384
+run_uuid: 11e8d94ab3ca41409d3fe0245c6804b1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740457002867
+status: 3
+tags: []
+user_id: suhaimi

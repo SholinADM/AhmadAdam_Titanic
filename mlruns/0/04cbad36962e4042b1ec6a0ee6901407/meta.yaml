@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/suhaimi/Documents/AhmadAdam_Titanic/mlruns/0/04cbad36962e4042b1ec6a0ee6901407/artifacts
+end_time: 1740458813283
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 04cbad36962e4042b1ec6a0ee6901407
+run_name: powerful-shrike-799
+run_uuid: 04cbad36962e4042b1ec6a0ee6901407
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740458799890
+status: 3
+tags: []
+user_id: suhaimi
